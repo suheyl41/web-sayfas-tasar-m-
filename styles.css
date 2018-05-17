@@ -1,0 +1,185 @@
+header {
+	
+	background:black;
+	height:60px;
+	
+}
+
+header ul li {
+	
+	float:left;
+	font-size:20px;
+}
+
+header ul {
+	
+	position:absolute;
+	left:350px;
+	
+}
+
+header ul li a {
+	
+	padding:20px;
+	display:block;
+	color:#eee;
+}
+
+header ul li a:hover {
+	
+	text-decoration:none;
+	color:white;
+	background:dodgerblue;
+}
+
+.logo img {
+	
+	float:left;
+	background:#ddd;
+	margin-left:20px;
+}
+.genel {
+	
+	width:1300px;
+	margin:auto;
+	margin-top:10px;
+}
+
+.otel {
+	
+	
+	height:300px;
+	background:white;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+
+.otel {
+	height:270px;
+	width:300px;
+	text-align:center;
+	padding:10px;
+	background:#ccc;
+	float:left;
+	margin:14px 12px;
+}
+
+.otel h2 {
+	
+	padding:5px;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.otel:hover {
+	
+	background:dodgerblue;
+	transition: all 0.5s;
+}
+
+.film {
+	
+	float:left;
+	width:500px;
+	
+	
+}
+
+.film h2 {
+	
+	font-weight:bold;
+	font-size:20px;
+	padding:10px;
+	border-bottom: 2px dotted white;
+	margin-bottom:10px;
+}
+
+.film img {
+	
+	float:left;
+	padding:10px;
+}
+
+.film p{ 
+
+  padding:10px;
+
+}
+
+footer {
+	
+	
+	height:200px;
+	background:black;
+	
+}
+
+.footer {
+	
+	position:absolute;
+	left:300px;
+	
+	width:600px;
+}
+
+.footer ul li {
+	
+	float:left;
+	font-size:22px;
+	
+}
+
+.footer ul li a {
+	
+	display:block;
+	padding:15px;
+	color:#ddd;
+	font-family:arial
+}
+
+.footer ul li a:hover {
+	
+	color:dodgerblue;
+	text-decoration:none;
+}
+
+
+.footer p {
+	
+	color:#969696;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
